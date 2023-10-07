@@ -8,14 +8,12 @@
 Adrixy78/Adrixy78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
---->
-```javascript
 <!DOCTYPE html>
 <html>
 <head>
   <style>
     .pacman {
-      width: 40px;
+    width: 40px;
       height: 40px;
       background-color: yellow;
       border-radius: 50%;
@@ -50,4 +48,3 @@ You can click the Preview link to take a look at your changes.
 </body>
 </html>
 ```
-
