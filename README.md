@@ -1,32 +1,11 @@
-- 👋 Hi, I’m Adri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Adrixy78/Adrixy78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-#include <iostream>
-#include <thread>
-#include <chrono>
-
-void dibujarPato(int pasos) {
-    for (int i = 0; i < pasos; i++) {
-        std::cout << "   __\n";
-        std::cout << " /    \\\n";
-        std::cout << "| o  o |\n";
-        std::cout << " \\_v_/\n";
-        std::this_thread::sleep_for(std::chrono::milliseconds(500)); // Pausa de medio segundo
-        system("clear"); // Para sistemas Unix-like. En Windows, cambiar a "cls"
-    }
-}
-
-int main() {
-    int numPasos = 5;
-    dibujarPato(numPasos);
-    
-    return 0;
-}
-```
+<div id="martillo">
+  <svg width="120" height="190" xmlns="http://www.w3.org/2000/svg")>
+    <rect x="43" y="10" width="14" height="160" rx="6" ry="5" fill="#895111"/>
+    <rect x="43" y="10" width="14" height="160" rx="6" ry="5" fill="#895111"/>
+    <rect x="45" y="15" width="4" height="150" rx="6" ry="6" fill="#A68661"/>
+    <rect x="10" y="22" width="80" height="45" rx="14" ry="12" fill="#6E6E5F"/>
+    <rect x="20" y="37" width="62" height="24" rx="6" ry="6" fill="#898982"/>
+    <rect x="20" y="25" width="62" height="6" rx="4" ry="4" fill="#C2C2B6"/>
+    <rect x="43" y="67" width="14" height="9" fill="#482907"/>
+  </svg>
+</div>
